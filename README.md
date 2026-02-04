@@ -1,5 +1,4 @@
-# 👨‍⚕️Mark 3 ChefIQ – Clinical & Culinary Intelligence
-# deinen Job kann eine App HAHAHAHAHAHAHAHHAHAHAHHAHA
+
 
 [![Swift Version](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2017.0%2B-blue.svg)](https://apple.com)
